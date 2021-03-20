@@ -3,8 +3,8 @@
 cara menjalankan program
 
 1. Install NodeJs & Npm jika belum ada.
-2. Buka CMD jalankan npm install didalam directory ini.
-3. npm start , didalam directory ini.
+2. Buka CMD jalankan ( npm install ) didalam repository / directory ini.
+3. npm start , didalam repository / directory ini.
 
 
 Rest Ful ini terdiri atas beberapa route
