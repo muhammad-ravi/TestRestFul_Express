@@ -10,19 +10,19 @@ cara menjalankan program
 Rest Ful ini terdiri atas beberapa route
 1. GET
     1. melihat semua data registrasi mobil yang terpakir.
-      1. http://localhost:3000/api/getAllDataParkir (untuk melihat data registrasi mobil yang terparkir)
+       http://localhost:3000/api/getAllDataParkir (untuk melihat data registrasi mobil yang terparkir)
     
     2. mengeluarkan kendaraan yang terparkir
-      1. http://localhost:3000/api/OutDataParkirMobil?plat_nomor= (pilih plat nomor )
+       http://localhost:3000/api/OutDataParkirMobil?plat_nomor= (pilih plat nomor )
     
     3. melihat report jumlah per tipe mobil
-      1. http://localhost:3000/api/getJumlahParkirByTipe?tipe=MPV
+       http://localhost:3000/api/getJumlahParkirByTipe?tipe=MPV
     
     4. melihat list nomor kendaraan sesuai warna
-      1. http://localhost:3000/api/getPlatNomorByWarna?warna=hitam
+      http://localhost:3000/api/getPlatNomorByWarna?warna=hitam
     
     5. melihat report data kendaraan yang telah keluar
-      1. http://localhost:3000/api/getAllReportParkirMobil
+      http://localhost:3000/api/getAllReportParkirMobil
 2. POST
       1. melakukan registrasi kendaraan
         1. localhost:3000/api/insertDataParkir
