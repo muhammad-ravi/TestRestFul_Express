@@ -1,0 +1,1 @@
+[{"plat_nomor":"B 4509 AC","warna":"Hitam","tipe":"MPV","parking_lot":"A4","tanggal_masuk":"2021-03-20 01:11:47"},{"plat_nomor":"B 3198 AC","warna":"Hitam","tipe":"SUV","parking_lot":"A5","tanggal_masuk":"2021-03-20 01:12:39"}]
