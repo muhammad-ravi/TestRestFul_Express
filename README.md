@@ -25,7 +25,7 @@ Rest Ful ini terdiri atas beberapa route
       http://localhost:3000/api/getAllReportParkirMobil
 2. POST
       1. melakukan registrasi kendaraan
-        1. localhost:3000/api/insertDataParkir
+        http://localhost:3000/api/insertDataParkir, 
           data Request = {
                             "plat_nomor": "B 3198 AC",
                             "warna": "Hitam",
